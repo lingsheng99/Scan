@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Scan to PDF Documents App Support or Contact
 
-You can use the [editor on GitHub](https://github.com/lingsheng99/Scan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you have any questions,please contact with us use zhuxianlong1979@gmail.com,and we’ll help you sort it out.thanks a lot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### App Feature
 
-### Markdown
+Scan to PDF Documents App will turn your iPhone into a powerful mobile scanner. Quickly scan, edit, save, and share any document in PDF.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Scan anything: documents, receipts, business cards, notes, books and store your scans as multi-page PDF  files. It doesn’t require an Internet connection, as all scans are stored locally on your device.
 
-```markdown
-Syntax highlighted code block
+APP FEATURES:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lingsheng99/Scan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Advanced Scan to PDF Documents App:
+– Scan to high-quality PDF 
+– Save scans in grayscale, black and white or color
+– Recognize and edit any text from your scans
+– Automatic shutter and border detection for any scannable object
+– Advanced pic processing with enhancement and color correction, noise removing, automatic perspective correction and more
+– Multipage scanning – scan as many pages as you like
