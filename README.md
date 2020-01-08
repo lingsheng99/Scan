@@ -10,10 +10,11 @@ Scan anything: documents, receipts, business cards, notes, books and store your 
 
 APP FEATURES:
 
-Advanced Scan to PDF Documents App:
-– Scan to high-quality PDF 
-– Save scans in grayscale, black and white or color
-– Recognize and edit any text from your scans
-– Automatic shutter and border detection for any scannable object
-– Advanced pic processing with enhancement and color correction, noise removing, automatic perspective correction and more
+Advanced Scan to PDF Documents App:<br>
+– Scan to high-quality PDF <br>
+– Save scans in grayscale, black and white or color<br>
+– Recognize and edit any text from your scans<br>
+– Automatic shutter and border detection for any scannable object<br>
+– Advanced pic processing with enhancement and color correction, noise removing, automatic perspective correction and more<br>
 – Multipage scanning – scan as many pages as you like
+<br>
