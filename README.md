@@ -1,10 +1,10 @@
-## PDF Scanner App Support or Contact
+## PDF Scanner App for iPhone Support or Contact
 
 If you have any questions,please contact with us use zhuxianlong1979@gmail.com,and we’ll help you sort it out.thanks a lot.
 
 ### App Feature
 
-PDF Scanner App will turn your iPhone into a powerful mobile scanner. Quickly scan, edit, save, and share any document in PDF.
+PDF Scanner App for iPhone will turn your iPhone into a powerful mobile scanner. Quickly scan, edit, save, and share any document in PDF.
 
 Scan anything: documents, receipts, business cards, notes, books and store your scans as multi-page PDF  files. 
 
