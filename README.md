@@ -1,16 +1,15 @@
-## Scan to PDF Documents App Support or Contact
+## PDF Scanner App Support or Contact
 
 If you have any questions,please contact with us use zhuxianlong1979@gmail.com,and we’ll help you sort it out.thanks a lot.
 
 ### App Feature
 
-Scan to PDF Documents App will turn your iPhone into a powerful mobile scanner. Quickly scan, edit, save, and share any document in PDF.
+PDF Scanner App will turn your iPhone into a powerful mobile scanner. Quickly scan, edit, save, and share any document in PDF.
 
-Scan anything: documents, receipts, business cards, notes, books and store your scans as multi-page PDF  files. It doesn’t require an Internet connection, as all scans are stored locally on your device.
+Scan anything: documents, receipts, business cards, notes, books and store your scans as multi-page PDF  files. 
 
 APP FEATURES:
 
-Advanced Scan to PDF Documents App:<br>
 – Scan to high-quality PDF <br>
 – Save scans in grayscale, black and white or color<br>
 – Recognize and edit any text from your scans<br>
